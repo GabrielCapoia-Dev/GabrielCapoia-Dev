@@ -36,4 +36,4 @@ Meu objetivo é me especializar na área de segurança web, contribuindo com sol
 
 [![Instagram](https://img.shields.io/badge/-capoiaa-purple?style=flat-square&logo=Instagram&logoColor=white&link={https://www.instagram.com/capoiaa/})]({https://www.instagram.com/capoiaa/})
 [![Linkedin](https://img.shields.io/badge/-gabrielcapoia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-capoia-78a1181b9//)](https://www.linkedin.com/in/gabriel-capoia-78a1181b9/)
-
+[![GitHub](https://img.shields.io/github/followers/{GabrielCapoia-Dev}?label=follow&style=social)]({https://github.com/GabrielCapoia-Dev})
