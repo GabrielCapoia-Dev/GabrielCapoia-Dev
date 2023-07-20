@@ -35,7 +35,5 @@ Estou cursando o primeiro ano do curso superior em Desenvolvimento de Sistemas p
 ## Vamos Conectar!
 
 [![Instagram](https://img.shields.io/badge/-{capoiaa}-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
-[![Lindekin](https://img.shields.io/badge/-{https://www.linkedin.com/in/gabriel-capoia-78a1181b9/}-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})]({Link})
+[![LindekIn](https://img.shields.io/badge/-{https://www.linkedin.com/in/gabriel-capoia-78a1181b9/}-blue?style=flat-square&logo=Facebook&logoColor=white&link={Link})]({Link})
 
-
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26\&rank_icon=percentile)
