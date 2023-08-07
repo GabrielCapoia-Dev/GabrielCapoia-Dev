@@ -16,7 +16,7 @@ Meu objetivo é me especializar na área de segurança web, contribuindo com sol
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,cs)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javascript,php)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
