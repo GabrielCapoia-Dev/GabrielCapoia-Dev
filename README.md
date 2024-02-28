@@ -6,9 +6,9 @@
 
 ✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. ✨
 
-Estou cursando o primeiro ano do curso superior em Desenvolvimento de Sistemas para Internet na Faculdade UniAlfa em Umuarama, onde estou aprendendo a criar sites e aplicativos usando linguagens como HTML5, CSS3, JavaScript e PHP. 💻
+Estou cursando o terceiro período do curso superior em Desenvolvimento de Sistemas para Internet na Faculdade UniAlfa em Umuarama, onde estou aprendendo a criar sites e aplicativos usando linguagens como Java, NodeJS, NextJS, JavaScript e PHP. 💻
 
-Meu objetivo é me especializar na área de segurança web, contribuindo com soluções que protejam os dados e as informações dos usuários e das empresas na internet. 🔒
+Meu objetivo é me especializar na área de segurança web, contribuindo com soluções que protejam os dados e as informações dos usuários e das empresas. 🔒
 
 ## Habilidades Tecnológicas
 
