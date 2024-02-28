@@ -12,11 +12,11 @@ Meu objetivo é me especializar na área de segurança web, contribuindo com sol
 
 ## Habilidades Tecnológicas
 
-💻 Aqui estão algumas das tecnologias que eu domino:
+💻 Aqui estão algumas das tecnologias que estou em processo de aprendizagem:
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,php)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javascript,php,java)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
