@@ -31,14 +31,14 @@ Meu objetivo é me especializar na área de segurança web, contribuindo com sol
 
 - Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=javascript,php,java,nodejs)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=javascript,php,ts,java,nodejs)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel,react,nextjs)](https://skillicons.dev)
 
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,notion,insomnia,jwt,laravel)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,sqlite,vscode,idea,notion,docker,mysql,npm,postman)](https://skillicons.dev)
 
 - Desenvolvimento Web:
 
