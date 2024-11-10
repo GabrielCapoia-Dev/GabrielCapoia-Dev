@@ -3,23 +3,25 @@
 
 ## Tecnologia que domino e frameworks
 
-* **Php Larevel**
+* **Php Laravel**
 * **TypeScript Node.Js**
-* **React Node.Js**
+* **React**
+* **Next.js**
+* **Node.Js**
 
-## Oque sei fazer
-* **Optmização de Crud**
-* **Authenticação de rotas**
+## O que sei fazer
+* **Otimização de Crud**
+* **Autenticação de rotas**
 * **Criação de APIs**
-* **Configuração basica de Banco de Dados Relacionais MYSQL**
-* **Criação de paineis administrativos**
+* **Configuração básica de Banco de Dados Relacionais MYSQL**
+* **Criação de painéis administrativos**
 * **Criação de landing pages**
 
 ## Sobre mim
 
 ✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. ✨
 
-Estou cursando o Quarto período do curso em de Sistemas para Internet na Faculdade UniAlfa em Umuarama terceira melhor faculdade do estado do Paraná além de possuir **nota 4** no **MEC**. Estou aprendendo a criar sites e aplicativos usando linguagens como NodeJS, JavaScript e PHP💻
+Estou cursando o Quarto período do curso de Sistemas para Internet na Faculdade UniAlfa em Umuarama, a terceira melhor faculdade do estado do Paraná, além de possuir **nota 4** no **MEC**. Estou aprendendo a criar sites e aplicativos usando linguagens como NodeJS, JavaScript e PHP💻
 
 Meu objetivo é me especializar na área de segurança web, contribuindo com soluções que protejam os dados e as informações dos usuários e das empresas. 🔒
 
@@ -27,16 +29,17 @@ Meu objetivo é me especializar na área de segurança web, contribuindo com sol
 
 💻 Aqui estão algumas das tecnologias que estou em processo de aprendizagem:
 
--  Linguagens de Programação: 
+- Linguagens de Programação: 
 
     [![My Skills](https://skillicons.dev/icons?i=javascript,php,java,nodejs)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel,react,nextjs)](https://skillicons.dev)
 
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,notion)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,notion,insomnia,jwt,laravel)](https://skillicons.dev)
+
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
