@@ -4,10 +4,7 @@
 ## Tecnologia que domino e frameworks
 
 * **Php Laravel**
-* **TypeScript Node.Js**
-* **React**
-* **Next.js**
-* **Node.Js**
+* **Blade**
 
 ## O que sei fazer
 * **Otimização de Crud**
