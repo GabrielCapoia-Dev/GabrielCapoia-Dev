@@ -4,6 +4,7 @@
 ## Tecnologia que domino e frameworks
 
 * **Php Laravel**
+* **FilamentPHP**
 * **Blade**
 
 ## O que sei fazer
