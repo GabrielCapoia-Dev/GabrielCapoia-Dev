@@ -19,7 +19,7 @@
 
 ✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. ✨
 
-Estou cursando o Quarto período do curso de Sistemas para Internet na Faculdade UniAlfa em Umuarama, a terceira melhor faculdade do estado do Paraná, além de possuir **nota 4** no **MEC**. Estou aprendendo a criar sites e aplicativos usando linguagens como NodeJS, JavaScript e PHP💻
+Estou cursando o Quinto período do curso de Sistemas para Internet na Faculdade UniAlfa em Umuarama, a terceira melhor faculdade do estado do Paraná, além de possuir **nota 4** no **MEC**. Estou aprendendo a criar sites e aplicativos usando linguagens como NodeJS, JavaScript e PHP💻
 
 Meu objetivo é me especializar na área de segurança web, contribuindo com soluções que protejam os dados e as informações dos usuários e das empresas. 🔒
 
@@ -32,11 +32,11 @@ Meu objetivo é me especializar na área de segurança web, contribuindo com sol
     [![My Skills](https://skillicons.dev/icons?i=javascript,php,ts,java,nodejs)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel,react,nextjs)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=bootstrap,laravel,react,nextjs,spring,tailwind)](https://skillicons.dev)
 
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,sqlite,vscode,idea,notion,docker,mysql,npm,postman)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,sqlite,vscode,idea,notion,docker,mysql,npm,ubuntu,vite,regex,postman,gcp)](https://skillicons.dev)
 
 - Desenvolvimento Web:
 
