@@ -1,6 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=GabrielCapoia-Dev&color=006bed)
 # 🚀 Olá, eu sou Gabriel Capoia - Back-end Developer
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielCapoia-Dev/GabrielCapoia-Dev/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/GabrielCapoia-Dev/GabrielCapoia-Dev/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
 ## Tecnologia que domino e frameworks
 
 * **Php Laravel**
