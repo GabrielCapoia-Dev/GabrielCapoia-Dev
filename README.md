@@ -24,7 +24,7 @@
 
 ✨ Sou um desenvolvedor apaixonado por desafios criativos e soluções inovadoras. ✨
 
-Estou cursando o Sexto período do curso de Sistemas para Internet na Faculdade UniAlfa em Umuarama, a terceira melhor faculdade do estado do Paraná, além de possuir **nota 4** no **MEC**. Estou aprendendo a criar sites e aplicativos usando linguagens como NodeJS, JavaScript e PHP💻
+Formado no curso Sistemas para Internet na Faculdade UniAlfa em Umuarama, a terceira melhor faculdade do estado do Paraná, além de possuir **nota 4** no **MEC**. Especializado em criar sites e aplicativos usando linguagens como PHP, JavaScript e JAVA💻
 
 Meu objetivo é me especializar na área de segurança web, contribuindo com soluções que protejam os dados e as informações dos usuários e das empresas. 🔒
 
