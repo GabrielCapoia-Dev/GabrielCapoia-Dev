@@ -41,7 +41,7 @@ Meu objetivo é me especializar na área de segurança web, contribuindo com sol
 
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,sqlite,vscode,idea,notion,docker,mysql,npm,ubuntu,vite,regex,postman,gcp)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,sqlite,vscode,idea,notion,docker,mysql,npm,ubuntu,vite,regex,postman,gcp,redis)](https://skillicons.dev)
 
 - Desenvolvimento Web:
 
